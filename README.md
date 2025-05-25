@@ -23,6 +23,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)
+![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![OOP](https://img.shields.io/badge/-Object%20Oriented%20Programming-7952B3?style=flat-square)
 
 ---
 
