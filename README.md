@@ -3,13 +3,13 @@
 
 ---
 
-🌱 I’m currently learning **Spring Boot, RESTful APIs, Docker, JPA, and testing with JUnit**
+🌱 I’m currently learning **Angular**
 
 👨‍💻 All of my projects are available here on [GitHub](https://github.com/Anss1?tab=repositories)
 
 📫 How to reach me: **ansahmed285@gmail.com**
 
-💼 Let's connect on [LinkedIn](https://linkedin.com/in/anas-saber-30a52120b)
+💼 Let's connect on [LinkedIn](https://linkedin.com/in/anas-saber-047-this-me)
 
 ---
 
@@ -39,9 +39,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [JWT Authentication Template](https://github.com/Anss1/JWT_Authentication-Refresh_Token-Redis_Blacklist) | This template is designed to be a strong foundation for any developer looking to build secure and scalable Spring Boot APIs | Spring Boot, Spring Security, JWT token, Redis |
 | [Task Manager App](https://github.com/Anss1/task-manager-app) | A CRUD web app for managing tasks | Spring Boot, Thymeleaf, JPA |
 | [Blog REST API](https://github.com/Anss1/spring_blog) | A RESTful API for a blogging platform | Spring Boot, MySQL, JPA |
-| [Student Records System](https://github.com/Anss1/student-system) | Manage student data with a web interface | Spring Boot, Thymeleaf, H2 |
 
 ---
 
