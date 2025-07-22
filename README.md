@@ -9,7 +9,7 @@
 
 📫 How to reach me: **ansahmed285@gmail.com**
 
-💼 Let's connect on [LinkedIn](https://linkedin.com/in/anas-saber-047-this-me)
+💼 Let's connect on [LinkedIn](https://linkedin.com/in/anassaber047)
 
 ---
 
