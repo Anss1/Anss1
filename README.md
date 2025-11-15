@@ -41,7 +41,7 @@
 |--------|-------------|------|
 | [JWT Authentication Template](https://github.com/Anss1/JWT_Authentication-Refresh_Token-Redis_Blacklist) | This template is designed to be a strong foundation for any developer looking to build secure and scalable Spring Boot APIs | Spring Boot, Spring Security, JWT token, Redis |
 | [Task Manager App](https://github.com/Anss1/task-manager-app) | A CRUD web app for managing tasks | Spring Boot, Angular, JPA |
-| [Blog REST API](https://github.com/Anss1/spring_blog) | A RESTful API for a blogging platform | Spring Boot, MySQL, JPA |
+| [Full_stack_Blog_web_app](https://github.com/Anss1/Full_stack_Blog_web_app) | A RESTful API + Front_end for a blogging platform | Spring Boot, MySQL, JPA, HTML5, CSS3, Jquery, Ajax |
 
 ---
 
